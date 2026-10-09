@@ -1,0 +1,1 @@
+{"name":"Naqd Wallet Demo","short_name":"Naqd","description":"Try the Naqd wallet demo in English or Arabic.","start_url":"./","scope":"./","display":"standalone","background_color":"#f8faf9","theme_color":"#075c4d","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
